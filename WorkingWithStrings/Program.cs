@@ -43,4 +43,4 @@ namespace WorkingWithStrings
 	}
 }
 //this is impottant becuase it taeches you all the diffrent ways to make strings
-// this will be helpful for the AP exam because its a good skill.
+// this will be helpful for the AP exam because its a good skill
